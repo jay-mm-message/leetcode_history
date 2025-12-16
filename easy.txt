@@ -1,0 +1,4 @@
+
+
+3354. Make Array Elements Equal to Zero
+3550. Smallest Index With Digit Sum Equal to Index
