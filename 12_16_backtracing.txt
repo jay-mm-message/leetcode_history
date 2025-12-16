@@ -1,0 +1,16 @@
+
+LeetCode 666 – Path Sum IV (English Version)
+Problem Description
+
+You are given a list of three-digit integers nums, representing a binary tree with depth less than 5. Each integer in nums has the following meaning:
+
+Hundreds digit: the depth D of the node (1 ≤ D ≤ 4)
+
+Tens digit: the position P of the node in that level (1 ≤ P ≤ 8), like a full binary tree
+
+Units digit: the value V of the node (0 ≤ V ≤ 9)
+
+Your task is to return the sum of all paths from root to leaf nodes.
+
+
+113. Path Sum II
