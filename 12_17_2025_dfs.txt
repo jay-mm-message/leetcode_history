@@ -1,4 +1,5 @@
 
-144. Binary Tree Preorder Traversal
-94. Binary Tree Inorder Traversal
-145. Binary Tree Postorder Traversal
+144. Binary Tree Preorder Traversal, finish
+94. Binary Tree Inorder Traversal, finish
+145. Binary Tree Postorder Traversal, finish
+102. Binary Tree Level Order Traversal, finish
