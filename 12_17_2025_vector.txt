@@ -11,3 +11,4 @@
 3370. Smallest Number With All Set Bits, finish
 977. Squares of a Sorted Array, finish
 88. Merge Sorted Array, finish
+26. Remove Duplicates from Sorted Array, finish
