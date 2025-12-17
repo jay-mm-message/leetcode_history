@@ -6,3 +6,4 @@
 283. Move Zeroes, finish
 136. Single Number, finish
 350. Intersection of Two Arrays II, finish (good)
+169. Majority Element, finish (good)
