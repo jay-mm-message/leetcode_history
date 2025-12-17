@@ -4,3 +4,5 @@
 189. Rotate Array, finish
 217. Contains Duplicate, finish
 283. Move Zeroes, finish
+136. Single Number, finish
+350. Intersection of Two Arrays II, finish
