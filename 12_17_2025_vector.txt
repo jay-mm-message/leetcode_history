@@ -18,3 +18,4 @@
 1313. Decompress Run-Length Encoded List, finish
 1470. Shuffle the Array, finish
 561. Array Partition, finish
+1295. Find Numbers with Even Number of Digits, finish
