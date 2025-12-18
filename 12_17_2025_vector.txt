@@ -17,3 +17,4 @@
 1051. Height Checker, finish
 1313. Decompress Run-Length Encoded List, finish
 1470. Shuffle the Array, finish
+561. Array Partition, finish
