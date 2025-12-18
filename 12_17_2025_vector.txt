@@ -16,3 +16,4 @@
 448. Find All Numbers Disappeared in an Array, finish
 1051. Height Checker, finish
 1313. Decompress Run-Length Encoded List, finish
+1470. Shuffle the Array, finish
