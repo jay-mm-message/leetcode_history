@@ -1,3 +1,4 @@
 
-46. Permutations
-47. Permutations II
+46. Permutations, finish
+47. Permutations II, finish
+22. Generate Parentheses, finish
