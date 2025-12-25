@@ -1,0 +1,45 @@
+
+回溯框架 → 剪枝優化 → 限制條件控制 → CSP 問題
+
+基礎回溯（理解回溯框架）
+
+78. Subsets 子集 Link #Medium
+基本結構
+90. Subsets II 子集 II Link #Medium
+如何處理重複元素，避免重複解（排序 + 剪枝）
+77. Combinations 組合 Link #Medium
+理解組合與子集的區別，學會 start index 控制選擇範圍。
+更優解：Lexicographic Order
+39. 40. Combination Sum 組合總和 Link #Medium
+數字可以重複選擇，如何控制回溯範圍
+如何在「組合」問題中 剪枝，防止重複解？
+排列問題（引入訪問標記）
+
+46. Permutations 全排列 Link #Medium
+排列和組合的區別（需要 used[] 陣列標記訪問過的數字）
+更優解：Lexicographic Order, Heap Algo
+47. Permutations II 全排列 II Link #Medium
+當輸入有重複數字時，如何避免產生重複解？
+結構性回溯（限制條件 + 括號問題）
+
+22. Generate Parentheses 括號生成 Link #Medium
+如何使用 左右括號數量限制 來控制回溯條件？
+回溯 + 剪枝 + 有限條件控制
+131. Palindrome Partitioning 分割回文串 Link #Medium
+如何用回溯進行「字符串的動態切割」？
+先判斷回文 + 回溯切割
+經典回溯挑戰（N 皇后 & 數獨）
+需要 深層剪枝 和 約束滿足問題（CSP）。
+
+51. 52. N-Queens N 皇后 Link #Hard
+如何表示 皇后衝突（用 column[], diag1[], diag2[] 控制）
+如何剪枝加速 減少搜索空間
+困難回溯（挑戰題）
+最後一階段是回溯中 最困難的題目，涉及 廣搜結合回溯 或 深層剪枝。
+
+17. Letter Combinations of a Phone Number 電話號碼的字母組合 Link #Medium
+如何處理多個字母對應數字的組合？
+其他解法 : BFS
+301. Remove Invalid Parentheses 刪除無效的括號 Link #Hard
+這是 回溯 + 剪枝 + BFS 搜索 的組合難題
+需要在 刪除最少括號數 的前提下找到所有合法的字符串
